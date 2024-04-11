@@ -24,3 +24,4 @@ export const selectVisibleContact = createSelector(
     }
   }
 );
+
